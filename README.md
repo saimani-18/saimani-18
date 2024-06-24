@@ -1,8 +1,8 @@
-![logo]()
+![logo](https://github.com/saimani-18/saimani-18/blob/main/cover%20image.png)
 h1 align="center">Hi 👋, I'm Sai Manikanta Patro</h1>
 <h3 align="center">A Passionate Data Science Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/uc?export=view&id=1DwI3wxz8j01Rf_Tn_G8hBUNh_aKeCvoD">
+<img align="right" alt="coding" width="400" src="">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saimani-18&label=Profile%20views&color=0e75b6&style=flat" alt="saimani-18" />
@@ -10,13 +10,12 @@ h1 align="center">Hi 👋, I'm Sai Manikanta Patro</h1>
 
 - 🔭 I’m currently working on **Data Science Projects**
 - 🌱 I’m currently learning **Generative AI**
-- 🤝 I’m looking for help with **AI/ML related projects**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://saimaniportfolio.vercel.app/)
 - 📝 I regularly write articles on [My Tech Blog](https://mytechblog.vercel.app/)
-- 💬 Ask me about **AI, ML, Gen AI**
+- 💬 Experimenting with **Tensorflow**
 - 📫 How to reach me **saimanikantapatro8@gmail.com**
 - 📄 Know about my experiences [My Resume](https://resume.io/r/qR7O3g02C)
-- ⚡ Fun fact **🌟 When I'm not coding, you can find me exploring new technologies.**
+- ⚡ Fun fact **🌟 When I'm not coding, you can find me travelling**
 
 ---
 
