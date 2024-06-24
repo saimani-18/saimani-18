@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Manikanta Patro</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="/Users/KIIT/Downloads/robot.png
+<img align="right" alt="coding" width="400" src="https://github.com/saimani-18/saimani-18/blob/main/robot.png"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimani-18&label=Profile%20views&color=0e75b6&style=flat" alt="saimani-18" /> </p>
 
 - 🔭 I’m currently working on **Data Science Projects**
