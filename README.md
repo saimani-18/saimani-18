@@ -1,7 +1,7 @@
 ![logo](https://github.com/saimani-18/saimani-18/blob/main/cover%20image.png)
 
 <h1 align="center">Hi 👋, I'm Sai Manikanta Patro</h1>
-<h3 align="center">A passionate DataScience Enthusiast </h3>
+
 
 <img align="right" alt="coding" width="400" src="https://github.com/saimani-18/saimani-18/blob/main/robot.png">
 
