@@ -17,11 +17,11 @@
 
 - 💬 Ask me about **AI,ML,Gen AI**
 
-- 📫 Reach me **saimanikantapatro8@gmail.com**
+- 📫 Reach me at **saimanikantapatro8@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/qR7O3g02C](https://resume.io/r/qR7O3g02C)
 
-- ⚡**🌟 When I'm not coding, you can find me travelling.**
+  
 
 
 ---
