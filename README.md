@@ -35,7 +35,7 @@
 <a href="https://instagram.com/princemani_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princemani_18" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/spacecore_explorer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spacecore_explorer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saimanikantapat3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saimanikantapat3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohedfaur8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohedfaur8" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/saimani-18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saimani" height="30" width="40" /></a>
 </p>
 
 ---
