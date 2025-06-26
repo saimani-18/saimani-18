@@ -1,4 +1,4 @@
-![logo](https://github.com/saimani-18/saimani-18/blob/main/Dark Purple & Coral Gradient Content Creator LinkedIn Banner.png)
+![logo](https://github.com/saimani-18/saimani-18/blob/main/cover.png)
 
 <h1 align="center">Hi 👋, I'm Sai Manikanta Patro</h1>
 
