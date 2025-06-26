@@ -1,4 +1,4 @@
-![logo](https://github.com/saimani-18/saimani-18/blob/main/cover.png)
+![logo](https://github.com/saimani-18/saimani-18/blob/main/cover)
 
 <h1 align="center">Hi 👋, I'm Sai Manikanta Patro</h1>
 
