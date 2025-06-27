@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://saimaniportfolio.vercel.app/](https://saimaniportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://saimaniportfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://mytechblog.vercel.app/](https://mytechblog.vercel.app/)
+- 📝 I regularly write articles on [My tech blog](https://mytechblog.vercel.app/)
 
 - 💬 Ask me about **AI,ML,Gen AI**
 
 - 📫 Reach me at **saimanikantapatro8@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/qR7O3g02C](https://resume.io/r/qR7O3g02C)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Icch6pFRljEF_MmmMzjd5cLbaRqnAmil/view?usp=sharing)
 
   
 
